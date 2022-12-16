@@ -15,3 +15,7 @@ composer require dompdf/dompdf - Vai ser instalado a biblioteca dompdf, após a 
 
 3- Criar o arquivo php.
 As informações apartir daqui estão no arquivo index.php.
+
+Contatos:
+Instagram: @amiltonmelo_
+Whatsapp: +55 (88) 9 9656-3729
